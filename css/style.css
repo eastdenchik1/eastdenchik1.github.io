@@ -541,9 +541,6 @@ Transition Layer
   z-index: 1;
 }
 
-.contacts {
-  margin-left: 75vh;
-}
 
 .contacts > p > a {
   text-decoration: none;
