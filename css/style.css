@@ -508,7 +508,7 @@ Transition Layer
 .main2 {
   text-align: center;
   color: #333;
-  height: 75vh;
+  height: 60vh;
   display:table;
   width:100%;
   position: relative;
@@ -547,9 +547,17 @@ Transition Layer
   margin-left:auto;
   margin-right:auto;
   width:100%;
+  font-size: 3.6rem
 }
 
-.mheader > .contacts > p > a{
+.mheader > .col-md-6 > .contacts > p > a{
   text-decoration: none;
   color: #333;
+}
+
+.portfolio >.col-md-4> .skills-section {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 3.6rem;
+  margin-bottom: 0.1rem;
 }
